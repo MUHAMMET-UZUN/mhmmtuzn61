@@ -8,4 +8,3 @@
 mhmmtuzn61/mhmmtuzn61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<iframe frameborder="0" src="https://itch.io/embed/2416712?dark=true" width="552" height="167"><a href="https://um4m1.itch.io/techglove">TechGlove by um4m1</a></iframe>
